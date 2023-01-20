@@ -1,10 +1,10 @@
-# supermath
+# Supermath
 Super library for math tools
 
-## how to build project
+## How to build project
 No need to build as it's on Python
 
-## how to run project
+## How to run project
 Work in progress now
 But yoг soon can do it with commands:
 ```bash
